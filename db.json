@@ -5,9 +5,9 @@
             "title": "Read a Book",
             "body": "Start reading the classic novel 'Pride and Prejudice' by Jane Austen. It's a timeless story of love, class, and societal norms in early 19th-century England. Dive into the world of Elizabeth Bennet and Mr. Darcy as their complex relationship unfolds amidst a backdrop of social expectations and family dynamics. This book offers a glimpse into the manners, morals, and values of a bygone era, and it's a must-read for any literature enthusiast.",
             "completed": false,
-            "created_at": "2017-01-01 12:00:00",
-            "updated_at": "2017-01-01 12:00:00",
-            "date_time": "2017-01-01 12:00:00",
+            "created_at": "2023-10-15 10:00:00",
+            "updated_at": "2023-10-16 14:30:00",
+            "date_time": "2023-10-17 08:45:00",
             "category": "personal"
         },
         {
@@ -15,9 +15,9 @@
             "title": "Work on Project",
             "body": "Today's work session involves making significant progress on the 'Project X' initiative. The primary goal is to finalize the project's scope and objectives, create a detailed project plan, and allocate tasks to team members. This project is crucial for our company's growth, and successful completion will have a substantial impact on our market position. It's essential to collaborate efficiently and ensure that everyone is aligned with the project's goals and timelines.",
             "completed": false,
-            "created_at": "2017-01-01 12:00:00",
-            "updated_at": "2017-01-01 12:00:00",
-            "date_time": "2017-01-01 12:00:00",
+            "created_at": "2023-10-15 09:15:00",
+            "updated_at": "2023-10-16 13:45:00",
+            "date_time": "2023-10-17 11:20:00",
             "category": "work"
         },
         {
@@ -25,9 +25,9 @@
             "title": "Family Vacation Planning",
             "body": "It's time to plan our family vacation for the summer. We're considering a trip to the beautiful coastal town of Maui, Hawaii. Maui offers stunning beaches, lush landscapes, and a wide range of outdoor activities. We need to research and book accommodations, plan daily itineraries, and make a checklist of things to pack. This vacation will be an opportunity for quality family time and creating wonderful memories.",
             "completed": false,
-            "created_at": "2017-01-01 12:00:00",
-            "updated_at": "2017-01-01 12:00:00",
-            "date_time": "2017-01-01 12:00:00",
+            "created_at": "2023-10-15 11:30:00",
+            "updated_at": "2023-10-16 16:00:00",
+            "date_time": "2023-10-17 13:10:00",
             "category": "personal"
         },
         {
@@ -35,9 +35,9 @@
             "title": "Health and Fitness Goals",
             "body": "It's time to focus on health and fitness goals for the upcoming year. A consistent exercise routine, a balanced diet, and adequate rest are essential components of a healthy lifestyle. Create a workout plan that includes cardio, strength training, and flexibility exercises. Additionally, maintain a food diary to track your meals and ensure you're getting the right nutrients. Prioritize sleep to recharge your body and mind. Achieving these goals will lead to improved overall well-being and vitality.",
             "completed": false,
-            "created_at": "2017-01-01 12:00:00",
-            "updated_at": "2017-01-01 12:00:00",
-            "date_time": "2017-01-01 12:00:00",
+            "created_at": "2023-10-15 14:45:00",
+            "updated_at": "2023-10-16 18:20:00",
+            "date_time": "2023-10-17 15:50:00",
             "category": "personal"
         },
         {
@@ -45,9 +45,9 @@
             "title": "Team Building Event",
             "body": "Organize a team-building event for the department. A successful team-building event strengthens the bonds among team members, boosts morale, and enhances collaboration. Consider various activities such as team challenges, workshops, and team lunches. The event should be engaging and enjoyable, fostering a positive work environment and improving overall team dynamics.",
             "completed": false,
-            "created_at": "2017-01-01 12:00:00",
-            "updated_at": "2017-01-01 12:00:00",
-            "date_time": "2017-01-01 12:00:00",
+            "created_at": "2023-10-15 08:00:00",
+            "updated_at": "2023-10-16 12:15:00",
+            "date_time": "2023-10-17 09:30:00",
             "category": "work"
         },
         {
@@ -55,9 +55,9 @@
             "title": "Home Renovation Plans",
             "body": "Start planning a home renovation project. Assess the areas that require improvement, whether it's the kitchen, bathroom, or living spaces. Research design ideas and materials, and create a budget for the project. Consider hiring a contractor or architect if necessary. Home renovations can enhance your living space's functionality and aesthetics, adding value to your property.",
             "completed": false,
-            "created_at": "2017-01-01 12:00:00",
-            "updated_at": "2017-01-01 12:00:00",
-            "date_time": "2017-01-01 12:00:00",
+            "created_at": "2023-10-15 16:30:00",
+            "updated_at": "2023-10-16 19:45:00",
+            "date_time": "2023-10-17 16:15:00",
             "category": "personal"
         },
         {
@@ -65,9 +65,9 @@
             "title": "Financial Planning",
             "body": "Take a closer look at your financial situation and plan for the future. Review your income, expenses, and savings goals. Consider creating a budget to manage your finances more effectively. Investigate investment opportunities and retirement planning. Financial planning is crucial for achieving financial security and reaching your long-term objectives.",
             "completed": false,
-            "created_at": "2017-01-01 12:00:00",
-            "updated_at": "2017-01-01 12:00:00",
-            "date_time": "2017-01-01 12:00:00",
+            "created_at": "2023-10-15 12:10:00",
+            "updated_at": "2023-10-16 17:25:00",
+            "date_time": "2023-10-17 14:55:00",
             "category": "personal"
         },
         {
@@ -75,9 +75,9 @@
             "title": "Marketing Strategy Review",
             "body": "Analyze the current marketing strategy for the company. Assess the effectiveness of various marketing channels, such as social media, email marketing, and content marketing. Identify areas that need improvement and develop a revised marketing plan. Staying updated with the latest marketing trends and technologies is essential to remain competitive in the market.",
             "completed": false,
-            "created_at": "2017-01-01 12:00:00",
-            "updated_at": "2017-01-01 12:00:00",
-            "date_time": "2017-01-01 12:00:00",
+            "created_at": "2023-10-15 13:20:00",
+            "updated_at": "2023-10-16 18:50:00",
+            "date_time": "2023-10-17 15:15:00",
             "category": "work"
         },
         {
@@ -85,35 +85,5 @@
             "title": "Community Volunteering",
             "body": "Explore opportunities for community volunteering. Giving back to the community through volunteer work is a fulfilling and meaningful experience. Research local organizations and initiatives that align with your interests and values. Whether it's supporting the homeless, mentoring youth, or participating in environmental clean-up efforts, volunteering contributes to a better and more compassionate society.",
             "completed": false,
-            "created_at": "2017-01-01 12:00:00",
-            "updated_at": "2017-01-01 12:00:00",
-            "date_time": "2017-01-01 12:00:00",
-            "category": "personal"
-        },
-        {
-            "id": 13,
-            "title": "Product Development Meeting",
-            "body": "Schedule a product development meeting to discuss upcoming product enhancements and innovations. Collaborate with the product development team to gather insights and ideas for improving existing products or creating new ones. Ensure that the meeting focuses on customer needs, market trends, and technological advancements to drive product innovation.",
-            "completed": false,
-            "created_at": "2017-01-01 12:00:00",
-            "updated_at": "2017-01-01 12:00:00",
-            "date_time": "2017-01-01 12:00:00",
-            "category": "work"
-        },
-        {
-            "id": 14,
-            "title": "Educational Goals",
-            "body": "Set educational goals for the upcoming academic year. Whether you're a student or a lifelong learner, establishing clear learning objectives is crucial for personal and professional growth. Define the subjects or skills you want to master and create a study plan. Consider enrolling in courses or seeking out educational resources to achieve your goals.",
-            "completed": false,
-            "created_at": "2017-01-01 12:00:00",
-            "updated_at": "2017-01-01 12:00:00",
-            "date_time": "2017-01-01 12:00:00",
-            "category": "personal"
-        }
-    ],
-    "profile": {
-        "name": "John Doe",
-        "email": "John.Doe@gmail.com",
-        "profile": "https://i.pravatar.cc/300"
-    }
-}
+            "created_at": "2023-10-15 15:40:00",
+            "updated_at": "2023-10-
