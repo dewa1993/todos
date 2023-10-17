@@ -133,42 +133,12 @@
         {
             "id": 17,
             "title": "Productivity Enhancement",
-            "body": "Boost your daily productivity by implementing effective time management techniques. Prioritize tasks, eliminate distractions, and create a structured daily schedule. Setting clear goals and maintaining focus will help you achieve more in less time. Productivity enhancement is a key factor in achieving personal and professional success.",
+            "body": "Boost your daily productivity by implementing effective time management techniques. Prioritize tasks, eliminate distractions, and create a structured daily schedule. Setting clear goals and maintaining focus will help you achieve more in less time.",
             "completed": false,
             "created_at": "2017-01-01 12:00:00",
             "updated_at": "2017-01-01 12:00:00",
             "date_time": "2017-01-01 12:00:00",
             "category": "personal"
-        },
-        {
-            "id": 18,
-            "title": "Team Training Workshop",
-            "body": "Organize a team training workshop to enhance the skills and knowledge of your team members. Identify areas where training is needed, whether it's related to technical skills, soft skills, or industry-specific knowledge. Bringing in expert trainers or facilitating interactive workshops can contribute to team development and improved performance.",
-            "completed": false,
-            "created_at": "2017-01-01 12:00:00",
-            "updated_at": "2017-01-01 12:00:00",
-            "date_time": "2017-01-01 12:00:00",
-            "category": "work"
-        },
-        {
-            "id": 19,
-            "title": "Environmental Conservation",
-            "body": "Get involved in environmental conservation efforts. Participate in local initiatives like tree planting, recycling drives, or wildlife preservation projects. Taking action to protect the environment is crucial for a sustainable future. Every small contribution makes a significant impact on the planet's well-being.",
-            "completed": false,
-            "created_at": "2017-01-01 12:00:00",
-            "updated_at": "2017-01-01 12:00:00",
-            "date_time": "2017-01-01 12:00:00",
-            "category": "personal"
-        },
-        {
-            "id": 20,
-            "title": "Business Networking",
-            "body": "Expand your professional network by attending business networking events and connecting with industry peers. Networking provides opportunities for collaboration, knowledge exchange, and potential partnerships. It's essential to build and maintain relationships in your industry to stay informed about trends and opportunities.",
-            "completed": false,
-            "created_at": "2017-01-01 12:00:00",
-            "updated_at": "2017-01-01 12:00:00",
-            "date_time": "2017-01-01 12:00:00",
-            "category": "work"
         }
     ],
     "profile": {
