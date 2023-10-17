@@ -1,9 +1,9 @@
 {
     "todo": [
         {
-            "id": 1,
-            "title": "Work out Session",
-            "body": "start workout session at 6:00am",
+            "id": 4,
+            "title": "Read a Book",
+            "body": "Start reading the classic novel 'Pride and Prejudice' by Jane Austen. It's a timeless story of love, class, and societal norms in early 19th-century England. Dive into the world of Elizabeth Bennet and Mr. Darcy as their complex relationship unfolds amidst a backdrop of social expectations and family dynamics. This book offers a glimpse into the manners, morals, and values of a bygone era, and it's a must-read for any literature enthusiast.",
             "completed": false,
             "created_at": "2017-01-01 12:00:00",
             "updated_at": "2017-01-01 12:00:00",
@@ -11,9 +11,9 @@
             "category": "personal"
         },
         {
-            "id": 2,
-            "title": "Study Session",
-            "body": "start workout session at 6:00am",
+            "id": 5,
+            "title": "Work on Project",
+            "body": "Today's work session involves making significant progress on the 'Project X' initiative. The primary goal is to finalize the project's scope and objectives, create a detailed project plan, and allocate tasks to team members. This project is crucial for our company's growth, and successful completion will have a substantial impact on our market position. It's essential to collaborate efficiently and ensure that everyone is aligned with the project's goals and timelines.",
             "completed": false,
             "created_at": "2017-01-01 12:00:00",
             "updated_at": "2017-01-01 12:00:00",
@@ -21,9 +21,149 @@
             "category": "work"
         },
         {
-            "id": 3,
-            "title": "Cricket Game",
-            "body": "Ind vs Pak game at 6:00am",
+            "id": 6,
+            "title": "Family Vacation Planning",
+            "body": "It's time to plan our family vacation for the summer. We're considering a trip to the beautiful coastal town of Maui, Hawaii. Maui offers stunning beaches, lush landscapes, and a wide range of outdoor activities. We need to research and book accommodations, plan daily itineraries, and make a checklist of things to pack. This vacation will be an opportunity for quality family time and creating wonderful memories.",
+            "completed": false,
+            "created_at": "2017-01-01 12:00:00",
+            "updated_at": "2017-01-01 12:00:00",
+            "date_time": "2017-01-01 12:00:00",
+            "category": "personal"
+        },
+        {
+            "id": 7,
+            "title": "Health and Fitness Goals",
+            "body": "It's time to focus on health and fitness goals for the upcoming year. A consistent exercise routine, a balanced diet, and adequate rest are essential components of a healthy lifestyle. Create a workout plan that includes cardio, strength training, and flexibility exercises. Additionally, maintain a food diary to track your meals and ensure you're getting the right nutrients. Prioritize sleep to recharge your body and mind. Achieving these goals will lead to improved overall well-being and vitality.",
+            "completed": false,
+            "created_at": "2017-01-01 12:00:00",
+            "updated_at": "2017-01-01 12:00:00",
+            "date_time": "2017-01-01 12:00:00",
+            "category": "personal"
+        },
+        {
+            "id": 8,
+            "title": "Team Building Event",
+            "body": "Organize a team-building event for the department. A successful team-building event strengthens the bonds among team members, boosts morale, and enhances collaboration. Consider various activities such as team challenges, workshops, and team lunches. The event should be engaging and enjoyable, fostering a positive work environment and improving overall team dynamics.",
+            "completed": false,
+            "created_at": "2017-01-01 12:00:00",
+            "updated_at": "2017-01-01 12:00:00",
+            "date_time": "2017-01-01 12:00:00",
+            "category": "work"
+        },
+        {
+            "id": 9,
+            "title": "Home Renovation Plans",
+            "body": "Start planning a home renovation project. Assess the areas that require improvement, whether it's the kitchen, bathroom, or living spaces. Research design ideas and materials, and create a budget for the project. Consider hiring a contractor or architect if necessary. Home renovations can enhance your living space's functionality and aesthetics, adding value to your property.",
+            "completed": false,
+            "created_at": "2017-01-01 12:00:00",
+            "updated_at": "2017-01-01 12:00:00",
+            "date_time": "2017-01-01 12:00:00",
+            "category": "personal"
+        },
+        {
+            "id": 10,
+            "title": "Financial Planning",
+            "body": "Take a closer look at your financial situation and plan for the future. Review your income, expenses, and savings goals. Consider creating a budget to manage your finances more effectively. Investigate investment opportunities and retirement planning. Financial planning is crucial for achieving financial security and reaching your long-term objectives.",
+            "completed": false,
+            "created_at": "2017-01-01 12:00:00",
+            "updated_at": "2017-01-01 12:00:00",
+            "date_time": "2017-01-01 12:00:00",
+            "category": "personal"
+        },
+        {
+            "id": 11,
+            "title": "Marketing Strategy Review",
+            "body": "Analyze the current marketing strategy for the company. Assess the effectiveness of various marketing channels, such as social media, email marketing, and content marketing. Identify areas that need improvement and develop a revised marketing plan. Staying updated with the latest marketing trends and technologies is essential to remain competitive in the market.",
+            "completed": false,
+            "created_at": "2017-01-01 12:00:00",
+            "updated_at": "2017-01-01 12:00:00",
+            "date_time": "2017-01-01 12:00:00",
+            "category": "work"
+        },
+        {
+            "id": 12,
+            "title": "Community Volunteering",
+            "body": "Explore opportunities for community volunteering. Giving back to the community through volunteer work is a fulfilling and meaningful experience. Research local organizations and initiatives that align with your interests and values. Whether it's supporting the homeless, mentoring youth, or participating in environmental clean-up efforts, volunteering contributes to a better and more compassionate society.",
+            "completed": false,
+            "created_at": "2017-01-01 12:00:00",
+            "updated_at": "2017-01-01 12:00:00",
+            "date_time": "2017-01-01 12:00:00",
+            "category": "personal"
+        },
+        {
+            "id": 13,
+            "title": "Product Development Meeting",
+            "body": "Schedule a product development meeting to discuss upcoming product enhancements and innovations. Collaborate with the product development team to gather insights and ideas for improving existing products or creating new ones. Ensure that the meeting focuses on customer needs, market trends, and technological advancements to drive product innovation.",
+            "completed": false,
+            "created_at": "2017-01-01 12:00:00",
+            "updated_at": "2017-01-01 12:00:00",
+            "date_time": "2017-01-01 12:00:00",
+            "category": "work"
+        },
+        {
+            "id": 14,
+            "title": "Educational Goals",
+            "body": "Set educational goals for the upcoming academic year. Whether you're a student or a lifelong learner, establishing clear learning objectives is crucial for personal and professional growth. Define the subjects or skills you want to master and create a study plan. Consider enrolling in courses or seeking out educational resources to achieve your goals.",
+            "completed": false,
+            "created_at": "2017-01-01 12:00:00",
+            "updated_at": "2017-01-01 12:00:00",
+            "date_time": "2017-01-01 12:00:00",
+            "category": "personal"
+        },
+        {
+            "id": 15,
+            "title": "Business Expansion Strategy",
+            "body": "Develop a comprehensive strategy for expanding the business into new markets or launching new products. This involves market research, competitor analysis, and a well-defined business plan. Consider factors such as target demographics, pricing strategies, and distribution channels. Successful business expansion requires careful planning and execution.",
+            "completed": false,
+            "created_at": "2017-01-01 12:00:00",
+            "updated_at": "2017-01-01 12:00:00",
+            "date_time": "2017-01-01 12:00:00",
+            "category": "work"
+        },
+        {
+            "id": 16,
+            "title": "Travel Adventure Planning",
+            "body": "Embark on an exciting travel adventure by planning a trip to a destination you've always dreamt of. Research the destination's attractions, culture, and activities. Create a detailed itinerary, book flights and accommodations, and prepare for the journey. Travel adventures provide opportunities to explore new places, experience different cultures, and create lifelong memories.",
+            "completed": false,
+            "created_at": "2017-01-01 12:00:00",
+            "updated_at": "2017-01-01 12:00:00",
+            "date_time": "2017-01-01 12:00:00",
+            "category": "personal"
+        },
+        {
+            "id": 17,
+            "title": "Productivity Enhancement",
+            "body": "Boost your daily productivity by implementing effective time management techniques. Prioritize tasks, eliminate distractions, and create a structured daily schedule. Setting clear goals and maintaining focus will help you achieve more in less time. Productivity enhancement is a key factor in achieving personal and professional success.",
+            "completed": false,
+            "created_at": "2017-01-01 12:00:00",
+            "updated_at": "2017-01-01 12:00:00",
+            "date_time": "2017-01-01 12:00:00",
+            "category": "personal"
+        },
+        {
+            "id": 18,
+            "title": "Team Training Workshop",
+            "body": "Organize a team training workshop to enhance the skills and knowledge of your team members. Identify areas where training is needed, whether it's related to technical skills, soft skills, or industry-specific knowledge. Bringing in expert trainers or facilitating interactive workshops can contribute to team development and improved performance.",
+            "completed": false,
+            "created_at": "2017-01-01 12:00:00",
+            "updated_at": "2017-01-01 12:00:00",
+            "date_time": "2017-01-01 12:00:00",
+            "category": "work"
+        },
+        {
+            "id": 19,
+            "title": "Environmental Conservation",
+            "body": "Get involved in environmental conservation efforts. Participate in local initiatives like tree planting, recycling drives, or wildlife preservation projects. Taking action to protect the environment is crucial for a sustainable future. Every small contribution makes a significant impact on the planet's well-being.",
+            "completed": false,
+            "created_at": "2017-01-01 12:00:00",
+            "updated_at": "2017-01-01 12:00:00",
+            "date_time": "2017-01-01 12:00:00",
+            "category": "personal"
+        },
+        {
+            "id": 20,
+            "title": "Business Networking",
+            "body": "Expand your professional network by attending business networking events and connecting with industry peers. Networking provides opportunities for collaboration, knowledge exchange, and potential partnerships. It's essential to build and maintain relationships in your industry to stay informed about trends and opportunities.",
             "completed": false,
             "created_at": "2017-01-01 12:00:00",
             "updated_at": "2017-01-01 12:00:00",
@@ -35,27 +175,5 @@
         "name": "John Doe",
         "email": "John.Doe@gmail.com",
         "profile": "https://i.pravatar.cc/300"
-    },
-    "categories": [
-        {
-            "id": 1,
-            "name": "personal",
-            "icon": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
-        },
-        {
-            "id": 2,
-            "name": "work",
-            "icon": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
-        },
-        {
-            "id": 3,
-            "name": "shopping",
-            "icon": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
-        },
-        {
-            "id": 4,
-            "name": "others",
-            "icon": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
-        }
-    ]
+    }
 }
