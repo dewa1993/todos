@@ -86,4 +86,34 @@
             "body": "Explore opportunities for community volunteering. Giving back to the community through volunteer work is a fulfilling and meaningful experience. Research local organizations and initiatives that align with your interests and values. Whether it's supporting the homeless, mentoring youth, or participating in environmental clean-up efforts, volunteering contributes to a better and more compassionate society.",
             "completed": false,
             "created_at": "2023-10-15 15:40:00",
-            "updated_at": "2023-10-
+            "updated_at": "2023-10-16 19:10:00",
+            "date_time": "2023-10-17 16:30:00",
+            "category": "personal"
+        },
+        {
+            "id": 13,
+            "title": "Product Development Meeting",
+            "body": "Schedule a product development meeting to discuss upcoming product enhancements and innovations. Collaborate with the product development team to gather insights and ideas for improving existing products or creating new ones. Ensure that the meeting focuses on customer needs, market trends, and technological advancements to drive product innovation.",
+            "completed": false,
+            "created_at": "2023-10-15 10:45:00",
+            "updated_at": "2023-10-16 14:10:00",
+            "date_time": "2023-10-17 12:40:00",
+            "category": "work"
+        },
+        {
+            "id": 14,
+            "title": "Educational Goals",
+            "body": "Set educational goals for the upcoming academic year. Whether you're a student or a lifelong learner, establishing clear learning objectives is crucial for personal and professional growth. Define the subjects or skills you want to master and create a study plan. Consider enrolling in courses or seeking out educational resources to achieve your goals.",
+            "completed": false,
+            "created_at": "2023-10-15 09:55:00",
+            "updated_at": "2023-10-16 13:30:00",
+            "date_time": "2023-10-17 11:55:00",
+            "category": "personal"
+        }
+    ],
+    "profile": {
+        "name": "John Doe",
+        "email": "John.Doe@gmail.com",
+        "profile": "https://i.pravatar.cc/300"
+    }
+}
