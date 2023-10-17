@@ -109,36 +109,6 @@
             "updated_at": "2017-01-01 12:00:00",
             "date_time": "2017-01-01 12:00:00",
             "category": "personal"
-        },
-        {
-            "id": 15,
-            "title": "Business Expansion Strategy",
-            "body": "Develop a comprehensive strategy for expanding the business into new markets or launching new products. This involves market research, competitor analysis, and a well-defined business plan. Consider factors such as target demographics, pricing strategies, and distribution channels. Successful business expansion requires careful planning and execution.",
-            "completed": false,
-            "created_at": "2017-01-01 12:00:00",
-            "updated_at": "2017-01-01 12:00:00",
-            "date_time": "2017-01-01 12:00:00",
-            "category": "work"
-        },
-        {
-            "id": 16,
-            "title": "Travel Adventure Planning",
-            "body": "Embark on an exciting travel adventure by planning a trip to a destination you've always dreamt of. Research the destination's attractions, culture, and activities. Create a detailed itinerary, book flights and accommodations, and prepare for the journey. Travel adventures provide opportunities to explore new places, experience different cultures, and create lifelong memories.",
-            "completed": false,
-            "created_at": "2017-01-01 12:00:00",
-            "updated_at": "2017-01-01 12:00:00",
-            "date_time": "2017-01-01 12:00:00",
-            "category": "personal"
-        },
-        {
-            "id": 17,
-            "title": "Productivity Enhancement",
-            "body": "Boost your daily productivity by implementing effective time management techniques. Prioritize tasks, eliminate distractions, and create a structured daily schedule. Setting clear goals and maintaining focus will help you achieve more in less time.",
-            "completed": false,
-            "created_at": "2017-01-01 12:00:00",
-            "updated_at": "2017-01-01 12:00:00",
-            "date_time": "2017-01-01 12:00:00",
-            "category": "personal"
         }
     ],
     "profile": {
